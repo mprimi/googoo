@@ -1,0 +1,62 @@
+baseURL: 'https://www.marcoguzzo.net/'
+title: Marco Guzzo
+author: Marco Guzzo
+languageCode: en-us
+pygmentsCodeFences: true
+enableRobotsTXT: true
+theme: hugo-flex
+publishDir: public
+
+permalinks:
+  posts: '/:filename/'
+  pages: '/:filename/'
+
+params:
+  color: black
+  width: 42rem
+  description: Marco Guzzo's Homepage and Projects
+  footer: Except where otherwise noted, content on this site is licensed under a
+    a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
+    Creative Commons Attribution 4.0 International License</a>.
+  rss: >-
+    To subscribe to this RSS feed, copy the address in the address bar and paste
+    it into your favorite feed reader.
+  divider: '\2015\2015' # Set to false to remove divider below posts on homepage
+  schema: true
+  opengraph: false
+  twittercards: false
+  summaries: true
+taxonomies:
+  category: "categories"
+  tag: "tags"
+
+  # utterances:
+  #   repo:               # Set to Utterances repo URL to add Utterances comments
+  #   issueterm: pathname
+  #   theme: github-light
+  # netlify:
+  #   honeypot: false     # Set to true to add honeypot field in contact form
+  #   recaptcha: false    # Set to true to add recaptcha challenge in contact form
+  # css:                # Uncomment to add custom CSS from a list of files
+  #   - css/foo.css
+  #   - bar.css
+  # js:                 # Uncomment to add custom JS from a list of files
+  #   - js/foo.js
+  #   - bar.js
+
+
+
+menu:
+  nav:
+    - name: Projects
+      url: projects/
+      weight: 1
+    - name: Blog
+      url: posts/
+      weight: 2
+    - name: Tags
+      url: tags/
+      weight: 3
+    - name: Categories
+      url: categories/
+      weight: 4
