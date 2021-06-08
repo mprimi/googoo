@@ -12,20 +12,22 @@ permalinks:
   pages: '/:filename/'
 
 params:
-  color: black
+  color: tomato # Colors: https://www.w3schools.com/cssref/css_colors.asp
   width: 42rem
   description: Marco Guzzo's Homepage and Projects
-  footer: Except where otherwise noted, content on this site is licensed under a
-    a <a href="http://creativecommons.org/licenses/by/4.0/" rel="license">
-    Creative Commons Attribution 4.0 International License</a>.
+  footer: >-
+    <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/"><img alt="Creative Commons License" style="border-width:0" src="https://i.creativecommons.org/l/by-sa/4.0/88x31.png" /></a><br />This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution-ShareAlike 4.0 International License</a>.
   rss: >-
     To subscribe to this RSS feed, copy the address in the address bar and paste
     it into your favorite feed reader.
   divider: '\2015\2015' # Set to false to remove divider below posts on homepage
-  schema: true
+  schema: false
   opengraph: false
   twittercards: false
-  summaries: true
+  summaries: false
+  css:
+    - css/custom.css
+
 taxonomies:
   category: "categories"
   tag: "tags"
@@ -48,15 +50,15 @@ taxonomies:
 
 menu:
   nav:
-    - name: Projects
+    - name: ⚙️  Projects
       url: projects/
       weight: 1
-    - name: Blog
+    - name: 📰  Blog
       url: posts/
       weight: 2
-    - name: Tags
-      url: tags/
+    - name: ✉️  Contact
+      url: contact/
       weight: 3
-    - name: Categories
-      url: categories/
+    - name: 📡 RSS
+      url: index.xml
       weight: 4
