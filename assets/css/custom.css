@@ -2,3 +2,18 @@
 .Footer {
   font-size: 0.75rem;
 }
+
+/* Color link the same as the header color */
+main a {
+  color: tomato;
+}
+
+/* And lighter for visited links */
+main a:visited {
+  color: #ff967a;
+}
+
+/* Top of page title (which is a link)*/
+header.Heading a {
+  color: tomato;
+}
