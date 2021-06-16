@@ -2,8 +2,10 @@
 title: Contact Me
 ---
 
-![marco](/img/profile_placeholder.png)
+I'm happy to be contacted for consultation and design work.
 
-Email: foo@googoo.com
+And I love to hear from other hobbists and makers that share my passions.
 
-via [Facebook]() or [LinkedIn]()
+Email: info@marcoguzzo.net
+
+![Marco Guzzo](/img/profile_placeholder.png)
