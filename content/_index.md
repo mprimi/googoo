@@ -19,13 +19,13 @@ These are some of the skills, tools, technologies and materials I work with:
  * Team building and management
  * End-to-end project management
  * Numerical control machine (CNC mills, 3d-printers)
+ * CAD & CAM software (Fusion360, AutoCAD, Pro E, Cura, ando more)
 
 I'm also quite passionate about:
 
  * Mountain bikes
  * Radio-controlled vehicles
  * Kite and windsurfing
-
 
 # Projects
 
