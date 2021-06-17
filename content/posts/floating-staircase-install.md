@@ -13,8 +13,8 @@ The floating staircase I designed is getting installed today!
 
 Some pictures from the site.
 
-![some project](/img/placeholder.png)
+![Scala posa 1](/img/blog/scala-posa-1.jpg)
 
-![some project](/img/placeholder.png)
+![Scala posa 2](/img/blog/scala-posa-2.jpg)
 
-![some project](/img/placeholder.png)
+![Scala posa 3](/img/blog/scala-posa-3.jpg)

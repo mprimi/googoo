@@ -12,10 +12,10 @@ tags:
   - sloth
 ---
 
-After years of dreaming of owning my own CNC mill, I recently purchased a MODEL.
+After years of dreaming of owning my own CNC mill, I recently purchased one.
 
-![some project](/img/placeholder.png)
+![CNC Mill](/img/blog/cnc-mill.jpeg)
 
 I immediately put it to use to create a chassis component for [Sloth](/tags/sloth/)
 
-![some project](/img/placeholder.png)
+![First CNC piece](/img/blog/first-piece.jpg)
