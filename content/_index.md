@@ -18,7 +18,7 @@ These are some of the skills, tools, technologies and materials I work with:
  * Fabrication processes engineering
  * Team building and management
  * End-to-end project management
- * Numerical control machine (CNC mills, 3d-printers)
+ * CNC mills & drills, 3d-printers
  * CAD & CAM software (Fusion360, AutoCAD, Pro E, Cura, ando more)
 
 I'm also quite passionate about:
