@@ -8,6 +8,21 @@ This is a selection of some of the projects I worked on over the years.
 
 All the projects in this page hold special significance to me, for one reason or the other.
 
+# Sloth (since 2021)
+
+Sloth is an RC Crawler with a novel suspension system, wheels and body I designed entirely from scratch. It is unlike any other competition Crawler. Furthermore its design is dynamic and adaptable, it can be reconfigured based on the type of terrain and conditions.
+Pitting my own car against expert pilots with expensive vehicles is a lot of fun.
+
+![Sloth](/img/projects/sloth.jpeg)
+
+
+# Floating Staircase (2021)
+
+A one-of-a kind stair that floats in place as needed to provide access to a loft area of the apartment.
+
+![Floating staircase](/img/projects/staircase.jpg)
+
+
 # Elemento 265 (2020)
 
 Commissioned by artist Paolo Grassi, *Elemento 265* is the largest outdoor art installation in the Ticino region of Switzerland.
@@ -19,8 +34,16 @@ The size of some of the component exceeded the limits of the machines used to pr
 More info: [www.cdt.ch](https://www.cdt.ch/ticino/locarno/dove-abito-dentro-un-opera-d-arte-numerica-DB3021115)
 
 
-# Mountain Bike Shock Telemetry (since 2014)
+# Raiffeisen Bank Elevator Control (2016)
+A system to dispatch and recall elevators from the lobby desk.
+The control panel seamlessly blends into the curved glass of the welcome desk.
+This project was fun because it blended elements of engineering and safety with elements of aesthetics and design.
 
+More info: [www.area-arch.it](https://www.area-arch.it/raiffeisen-bank-stabio-svizzera-stefano-dallosso/)
+
+![alt text](/img/projects/raiffeisen.jpeg)
+
+# Mountain Bike Shock Telemetry (since 2014)
 
 A sensor installed on the bike shock absorbers feeds real-time data to an Android application via Bluetooth. The sensor facilitates the bike setup.
 This is an ongoing passion project and I'm experimenting with other sensors as well as allowing recording and replay of the data stream for later analysis.
@@ -28,11 +51,12 @@ This is an ongoing passion project and I'm experimenting with other sensors as w
 ![Mountain bike shock sensor](/img/projects/shock.jpeg)
 
 
-# Floating Staircase (2021)
+# Gold Ore Sieve (2012)
 
-A one-of-a kind stair that floats in place as needed to provide access to a loft area of the apartment.
+An industrial sieving machine that, to date, separates most of the gold mined in Switzerland.
+This new machine retired the previous model, in use since the 70s, drastically improving on efficiency.
 
-![Floating staircase](/img/projects/staircase.jpg)
+![Gold Sieve](/img/projects/gold.jpeg)
 
 
 # Waves, Piazza Canobbio (2010)
@@ -55,16 +79,6 @@ More info: [VRS Genie III](http://www.vrs-valuables.com/en/Home/Products.22.html
 ![Compost](/img/projects/compost.jpeg)
 
 
-# Raiffeisen Bank Elevator Control (????)
-A system to dispatch and recall elevators from the lobby desk.
-The control panel seamlessly blends into the curved glass of the welcome desk.
-This project was fun because it blended elements of engineering and safety with elements of aesthetics and design.
-
-More info: [www.area-arch.it](https://www.area-arch.it/raiffeisen-bank-stabio-svizzera-stefano-dallosso/)
-
-![alt text](/img/projects/raiffeisen.jpeg)
-
-
 # Biking Paths Restoration And Pump Track (since 2007)
 Over the course of a summer, with the help of some friends, we restored numerous trails and path that were unmaintained and almost disappeared.
 We modified some of them to make more fun and challenging for downhill mountain biking.
@@ -76,22 +90,6 @@ Around the same time I also built a bike 'Pump' track for a local bike park.
 
 ![pumptrack](/img/projects/pumptrack.jpg)
 
-
-
-# Gold Ore Sieve (2012)
-
-An industrial sieving machine that, to date, separates most of the gold mined in Switzerland.
-This new machine retired the previous model, in use since the 70s, drastically improving on efficiency.
-
-![Gold Sieve](/img/projects/gold.jpeg)
-
-
-# Sloth (since 2021)
-
-Sloth is an RC Crawler with a novel suspension system, wheels and body I designed entirely from scratch. It is unlike any other competition Crawler. Furthermore its design is dynamic and adaptable, it can be reconfigured based on the type of terrain and conditions.
-Pitting my own car against expert pilots with expensive vehicles is a lot of fun.
-
-![Sloth](/img/projects/sloth.jpeg)
 
 # Bike Garage (????)
 
